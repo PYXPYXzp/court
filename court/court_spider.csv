@@ -1,0 +1,858 @@
+item
+"{'date': 'Friday 28 July 2017',
+ 'name': 'In The County Court\r\nat Basildon',
+ 'rows': [{'case_details': 'D00BQ416\r\n'
+                           '  LEAN -v- FOWLER - Acc Possn 5 Minutes',
+           'time': '9:30 AM'},
+          {'case_details': 'D00BQ319\r\n'
+                           ""  Mohsen -v- O'Brien 10 Minutes Accelerated ""
+                           'Possession',
+           'time': '9:30 AM'},
+          {'case_details': 'D2PP513\r\n'
+                           '  8BIBBY FINANCIAL SER -v- ALLEN CMC 30 Minutes',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D00BQ420\r\n'
+                           '  BASILDON BC -v- HOBBS - Possession 15 Minutes',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'PCOL\r\n  LIST DO NOT LIST',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'D1PP9918\r\n'
+                           '  CIRCLE 33 -v- ROGERS - Possession 5 Minutes',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'D4PP4087\r\n'
+                           '  BASILDON COUNCIL -v- FINK - Possession 5 Minutes',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'B5PP6535\r\n'
+                           '  Basildon Council -v- Huggins 10 Minutes '
+                           'Possession',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'D00BQ363\r\n'
+                           '  ALMEX ESTATES LTD -v- BROWN - Acc Possn 15 MINS',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'PCOL\r\n  LIST DO NOT LIST', 'time': '2:00 PM'},
+          {'case_details': 'C1PP892A\r\n  GARNER -v- RAWSON -Possn 2 Hours',
+           'time': '2:00 PM'},
+          {'case_details': 'D4PP3987\r\n'
+                           '  MIFLATS BASILDON LTD -v- AYEGBAJEJE - Possession '
+                           '5 Minutes',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In The County Court\r\nat Basildon',
+ 'rows': [{'case_details': 'D00BQ385\r\n'
+                           '  ASHFORD OF ESSEX -v- MERRITT - Acc Poss 30 '
+                           'Minutes',
+           'time': '9:30 AM'},
+          {'case_details': 'C00BQ358\r\n'
+                           '  BASILDON BC -v- BUTCHER Prov Assess 2 Hours',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D00BQ269\r\n'
+                           '  BELLEVUE-FEVRIERE -v- ENDSLEIGH INS SER - Part 8 '
+                           '- 20 Minutes',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D00BQ229\r\n'
+                           '  BRAYSHER -v- UNDRILL - Part 8 - 30 Minutes',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C8PP3263\r\n'
+                           '  Bank Of Scotland -v- King 1. 5 Hours Application',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'D2PP5022\r\n'
+                           '  ALLEN IND SOL LTDF -v- D & D GREEN FUTURE LTD - '
+                           'CCMC 1 Hour',
+           'time': '2:00 PM'},
+          {'case_details': 'C2CY373J\r\n'
+                           '  CABOT FINANCIAL -v- ADEAGBO - Application 30 '
+                           'Minutes',
+           'time': '2:00 PM'},
+          {'case_details': 'C81YM760\r\n'
+                           '  Atkins -v- Elsdon 20 Minutes Application to Set '
+                           'Aside Judgment',
+           'time': '2:00 PM'},
+          {'case_details': 'D00BQ202\r\n'
+                           '  Campling-shingles -v- Bentley 10 Minutes '
+                           'Application',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'COURT 4',
+ 'name': 'In the County Court\r\nat Bath',
+ 'rows': [{'case_details': 'BS17F01154\r\n  WALLEY V. WALLEY RETURN DATE',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'THIS\r\n'
+                           '  CASE MUST GO AHEAD, IT WAS RELISTED ON 28/4 - '
+                           'C57YM270 BROCK +2 OTHERS V.\r\n'
+                           '  PUGH FAST TRACK 1 DAY TRIAL',
+           'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In the County Court\r\nat Bath',
+ 'rows': [{'case_details': 'RS16D02181\r\n'
+                           '  KAPLANIGRAN/KAPLANIGRAN FDA 30 MINUTES',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C3PP4018-\r\n'
+                           '  LANDMARK MORTGAGES -v- DAVIES- APPLN SUSP & SET '
+                           'ASIDE- 10 MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D8QZ1635\r\n'
+                           '  STENNETT -v- 23 ROYAL CRESCENT (BATH) LTD SC 90 '
+                           'MINS',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'D2QZ879D\r\n  SKIPP -v- THE MOTOR ARENA SC 90 MINS',
+           'time': '2:00 PM'},
+          {'case_details': 'SO16D09516\r\n  - NOAD -v- NOAD - FA- 30 MINS',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'District\r\nJudge Humphreys ',
+ 'name': 'Friday\r\n28 July 2017',
+ 'rows': [{'case_details': 'D5PP2496', 'time': '10.30\xa0'},
+          {'case_details': 'D5PP3262', 'time': '11.00'},
+          {'case_details': 'D4PP7252', 'time': '14.00'},
+          {'case_details': 'D4PP8578', 'time': '14.30'}],
+ 'title': 'In\r\nThe County Court at Basildon '}"
+"{'date': 'Sitting at Basildon Magistrates Court 5',
+ 'name': 'The Family Court ',
+ 'rows': [{'case_details': 'CM17F01487\r\n  Non-Mol 10 Minutes',
+           'time': '9:45 AM'},
+          {'case_details': 'CM17P00337\r\n  / CM17P00374 DRA 1 Hour',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'CM16P31392\r\n  DRA 1 Hour', 'time': '11:00 AM'},
+          {'case_details': 'CM17P00790\r\n  / CM17P51570 DRA 1 Hour',
+           'time': '12:00\r\n  PM '},
+          {'case_details': 'CM17P00486\r\n  Final Hearing 3 Hours',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'SITTING IN COURTROOM\r\n2',
+ 'name': 'In the County Court\r\nand Family Court sitting in Basingstoke',
+ 'rows': [{'case_details': 'BK17P00213\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\r\n'
+                           '  - T/E 1 HOUR - FHDRA',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'BK17P00218\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\r\n'
+                           '  - T/E 1 HOUR - FHDRA',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'BK17P00216\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\r\n'
+                           '  - T/E 1 HOUR - SPECIAL GUARDIANSHIP',
+           'time': '2:00 PM'},
+          {'case_details': 'BK17P00139\xa0\xa0\xa0\xa0\xa0\xa0\xa0\r\n'
+                           '  \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0'
+                           'DRA T/E 1 HOUR',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In the County Court\r\nand the Family Court at Barrow',
+ 'rows': [{'case_details': 'D4qz244c\r\n'
+                           '  WILSON -v- CUMBRIA DESIGN SCH 2 HOURS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D11yx133\r\n  WRIGHT -v- SKYFIRE SCH 2 HOURS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D1QZ192J\r\n  Maybea -v- One Sign 2 Hours Adj SCH',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C35YM840\r\n'
+                           '  Van Der Vyver -v- EUI Ltd 1. 5 hours SCH',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'D5QZ14A9\r\n  Whitby -v- Long Lane 2 hours SCH',
+           'time': '2:00 PM'},
+          {'case_details': 'D9QZ0704\r\n  Copperplane -v- May 2 hours SCH',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'SITTING IN HEARING\r\nROOM 1',
+ 'name': 'In the County Court\r\nand Family Court sitting in Basingstoke',
+ 'rows': [{'case_details': 'SO16D04090\r\n  GRAY -v- GRAY - T/E 1 HOUR - FDR',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'C72YM116\r\n'
+                           '  PERCIVAL -v- CHRZASZCZ - T/E 90 MINUTES - CCMC',
+           'time': '11:30\r\n  AM'},
+          {'case_details': '*SETTLED*\r\n'
+                           '  D20YJ414 SLOCOMBE -v- EUI LTD - T/E 2 HOURS - '
+                           'SMALL CLAIM',
+           'time': '2:00 PM'},
+          {'case_details': '*SETTLED*\r\n'
+                           '  D11YX612 GISSING -v- BENT - T/E 2 HOURS - SMALL '
+                           'CLAIM',
+           'time': '2:00 PM'},
+          {'case_details': '*settled*D14YX493\r\n'
+                           '  BLIND VETERANS -v- ZENITH INSURANCE PLC - T/E 30 '
+                           'MINS - DISPOSAL',
+           'time': '8:00 PM'},
+          {'case_details': 'D9QZ75A2\r\n'
+                           '  CHARNOCK -v- A THEODORE PROPERTY SOLUTIONS - T/E '
+                           '30 MINS - DIRECTIONS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'BK16P00156\r\n'
+                           '  / '
+                           'BK17P00102\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 '
+                           '- T/E 1\r\n'
+                           '  HOUR - DRA',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'C00BK079\r\n'
+                           '  DEEMING -v- WEATHERBY - T/E 1. 5 HOURS - ADJ '
+                           'APPN (D50K)',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'BK16P00295\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\r\n'
+                           '  - T/E 2HOURS - FINAL HEARING',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Sitting in the County Court at Bristol',
+ 'name': 'District Judge Rowe',
+ 'rows': [{'case_details': 'D00BS896\r\n'
+                           '  Palfreyman -v- Royal United Hospitals Bath NHS '
+                           'Trust Inf App 15 mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C02BS369\r\n'
+                           '  HSBC Bank Plc -v- Peer Real Estate Ltd '
+                           'Pre-reading 15 mins',
+           'time': '10:15\r\n  AM'},
+          {'case_details': 'C91BS248\r\n'
+                           '  Brown -v- Griffiths CCMC Pre-reading 30 mins',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'C02BS369\r\n'
+                           '  HSBC Bank Plc -v- Peer Real Estate Ltd CCMC 1 '
+                           'hour',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'C91BS248\r\n  Brown -v- Griffiths CCMC 1 hour',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'D30BS708\r\n'
+                           '  Culliford & Lane -v- Thorpe App Pre-reading 30 '
+                           'mins',
+           'time': '2:30 PM'},
+          {'case_details': 'D30BS708\r\n'
+                           '  Culliford & Lane -v- Thorpe App 1 hour',
+           'time': '3:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Hearing Room 4',
+ 'name': 'In The County Court\r\nand The Family Court at York',
+ 'rows': [{'case_details': 'Free\r\n  time', 'time': '10:00\r\n  AM'},
+          {'case_details': 'YO16P05339\r\n  Re: A Minor',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'YO17P05076\r\n  Re: A Minor',
+           'time': '11:30\r\n  AM'},
+          {'case_details': '*17001164A\r\n  Chargoy -v- Smith REMO',
+           'time': '2:00 PM'},
+          {'case_details': 'YO16P05319\r\n  Re: A Minor', 'time': '6:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Hearing Room 2',
+ 'name': 'In The County Court\r\nand The Family Court at York',
+ 'rows': [{'case_details': 'D00YO272\r\n  CYC -v- Whitehead Poss 10 mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D2PP3002\r\n  CYC -v- Milison Susp Evict 10 mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'BD16D05344\r\n  Danmore-Ellis -v- Ellis CO 15 mins',
+           'time': '10:15\r\n  AM'},
+          {'case_details': 'D00YO251\r\n  CYC -v- Walmsley Poss 10 mins',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'D1PP8581\r\n'
+                           '  Places for People -v- Blount Rent Poss 10 mins',
+           'time': '12:00\r\n  PM'},
+          {'case_details': 'D00YO237\r\n'
+                           '  Home Group -v- Griffiths Poss 15 mins',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'D00YO235\r\n  CYC -v- Fraser Poss 15 mins',
+           'time': '12:30\r\n  PM'},
+          {'case_details': '1QZ28865\r\n'
+                           '  Ramsey -v- Yorkshire Water SJA 15 mins',
+           'time': '12:45\r\n  PM'},
+          {'case_details': '0215 OF\r\n'
+                           '  2017 Shao & Peng -v- Lu Cred Pet 10 mins',
+           'time': '2:00 PM'},
+          {'case_details': 'BD17D00646\r\n  Turner -v- Salter FA 30 mins',
+           'time': '2:00 PM'},
+          {'case_details': 'BD16D05172\r\n  Boyes -v- Boyes CO 15mins',
+           'time': '2:00 PM'},
+          {'case_details': 'B00YO704\r\n  CYC -v- Hall App \xa010 mins',
+           'time': '3:30 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'SITTING IN HEARING\r\nROOM 1',
+ 'name': 'In the County Court\r\nand Family Court sitting in Basingstoke',
+ 'rows': [{'case_details': 'RS16D00695\r\n'
+                           '  ALOZIE -v- ALOZIE - T/E 20 MINS - APP',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'BK17P00086\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\r\n'
+                           '  \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0'
+                           '- T/E 1 HOUR - DRA',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'BK17P00020\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\r\n'
+                           '  - T/E 1 HOUR - DIRCS',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'B50YM805\r\n'
+                           '  ABBOTT -v- CROSSBIND LTD T/A COSHAM COURT '
+                           'NURSING HOME - T/E 2. 5 HOURS - PROV\r\n'
+                           '  ASSESSMENT',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'BK17P00190\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\r\n'
+                           '  - T/E 1HOUR - FHDRA',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'BK17P00221\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\r\n'
+                           '  - T/E 1 HOUR - FHDRA',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'BK17F00263\r\n'
+                           '  BARNETT -v- YOUNG - NON-MOL RETURN DATE - T/E 15 '
+                           'MINUTES',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'BK17F00257\r\n'
+                           ""  O'BRIEN -v- MEHMI - T/E 15 MINS - RETURN DATE ""
+                           'FLA',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'BK17F00267\r\n'
+                           '  BAYLISS -v- BAYLISS - T/E 30 MINS - FLA',
+           'time': '12:00\r\n  PM'},
+          {'case_details': 'C00BK142\r\n  Fund Application - T/E 30 MINUTES',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Friday 28 July 2017',
+ 'name': 'In the County Court\r\nand the Family Court at Barrow',
+ 'rows': [{'case_details': 'Pcol', 'time': '10:00\r\n  AM'},
+          {'case_details': 'B0PP2142\r\n  Virgin -v- Robe 10 Mins Possn',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C1PP460A\r\n  Accent -v- Forsyth 10 Mins Possn',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D5PP0617\r\n  Home -v- Monks 10 Mins Possn',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'D5PP1084\r\n  South Lakes -v- Hunter 10 Mins Possn',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'D5PP1469\r\n  Two Castles -v- Kelly 10 Mins Possn',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'C00KN290\r\n'
+                           '  Wilsons -v- Yorkshire Bank Dirs 20 mins',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'free', 'time': '11:20\r\n  AM'},
+          {'case_details': 'D00BW042\r\n  O-Brien -v- Scarpone 20 min Inf App',
+           'time': '11:35\r\n  AM'},
+          {'case_details': 'C95YM748\r\n'
+                           '  Spencer -v- BAE 30 (+15 reading) by tel (12:15)',
+           'time': '12:00\r\n  PM'},
+          {'case_details': 'D00BW073\r\n'
+                           '  Banks & McCreedy -v- Radiance 30 Mins Part 8',
+           'time': '2:00 PM'},
+          {'case_details': 'D0QZ974N\r\n'
+                           '  Douglas -v- South Lakes & JRB 30 min Dirs',
+           'time': '2:30 PM'},
+          {'case_details': 'C85YM940\r\n'
+                           '  Williamson -v- Jibcraft & others app 45 mins by '
+                           'tel',
+           'time': '3:00 PM'},
+          {'case_details': 'LV16D01046\r\n  Curley -v- Curley 20 Mins Appl',
+           'time': '3:45 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Thursday 3 August\r\n2017',
+ 'name': 'In the County Court\r\nand the Family Court at Barrow',
+ 'rows': [{'case_details': 'A62YM096\r\n'
+                           '  Holmes -v- Vinters, BAE & Glaxo 40 Mins CMH/Dirs '
+                           '(TEL)',
+           'time': '10:00\r\n  AM'},
+          {'case_details': '120C0067\r\n'
+                           '  1st Stop Payday Loans -v- Abbingdon N63 5 mins',
+           'time': '10:40\r\n  AM'},
+          {'case_details': '3PA95705\r\n  Home -v- Airey 5 Mins Adj appl susp',
+           'time': '10:45\r\n  AM'},
+          {'case_details': 'FREE\r\n  TIME', 'time': '10:50\r\n  AM'},
+          {'case_details': '120J0037\r\n  ME III Ltd -v- Phillips N62 5 mins',
+           'time': '10:55\r\n  AM'},
+          {'case_details': 'FREE\r\n  TIME', 'time': '11:00\r\n  AM'},
+          {'case_details': 'D00BW067\r\n  Corkill -v- Lawes 10 Mins Part 8',
+           'time': '11:05\r\n  AM'},
+          {'case_details': '120J0016\r\n  Guselli -v- Oladele N62 5 mins',
+           'time': '11:05\r\n  AM'},
+          {'case_details': 'D8QZ64M4\r\n  Rogers -v- Ingham hg 10 mins',
+           'time': '11:15\r\n  AM'},
+          {'case_details': 'B5PP6762\r\n'
+                           '  BBC -v- Calvert & Dorman 10 Mins Adj Possn',
+           'time': '11:25\r\n  AM'},
+          {'case_details': 'Free\r\n  short appts only',
+           'time': '11:35\r\n  AM'},
+          {'case_details': 'C2PP8165\r\n  RBOS -v- Magee 5 min Pcol',
+           'time': '11:35\r\n  AM'},
+          {'case_details': 'C89YM773\r\n'
+                           '  Brown -v- C & J Clark & others 30 min (+15 '
+                           'reading) Tel (12:30)',
+           'time': '12:15\r\n  PM'},
+          {'case_details': 'D00KN023\r\n  SLDC -v- Hayton 45 Mins CMC',
+           'time': '2:00 PM'},
+          {'case_details': 'LV15D11587\r\n'
+                           '  Goodson -v- Goodson 10 Mins Consent Appl',
+           'time': '2:45 PM'},
+          {'case_details': 'Free 1\r\n  Hour 5 mins civil', 'time': '2:55 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Court 1',
+ 'name': 'In The County Court\r\nand The Family Court at York',
+ 'rows': [{'case_details': 'YO16C00462\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'YO17P55129\r\n  Re: A Minor', 'time': '1:00 PM'},
+          {'case_details': 'YO16C00213\r\n  Re: A Minor', 'time': '1:00 PM'},
+          {'case_details': '* YO35/17\r\n  Dir 30 mins', 'time': '1:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Wednesday 2 August\r\n2017',
+ 'name': 'In the County Court\r\nand the Family Court at Barrow',
+ 'rows': [{'case_details': 'BW17P00060\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'BW17P00048\r\n  Re: A Minor',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'BW16P00212\r\n  Re: A Minor', 'time': '2:00 PM'},
+          {'case_details': 'C31YJ285\r\n'
+                           '  Rimmell -v- Walton 1 h 15 Prov Asses (Parties '
+                           'not attending)',
+           'time': '3:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Tuesday 1 August 2017',
+ 'name': 'In the County Court\r\nand the Family Court at Barrow',
+ 'rows': [{'case_details': 'BW14D00103\r\n  Cook -v- Cook 3 Hours FDR/Final Hg',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'LV15D03844\r\n  Wilson -v- Wilson 1 hour FDR',
+           'time': '2:00 PM'},
+          {'case_details': 'LV15D10727\r\n  MCGILL -v- MCGILL FDR 1 HOUR',
+           'time': '3:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Court 1',
+ 'name': 'In The County Court\r\nand The Family Court at York',
+ 'rows': [{'case_details': 'YO16C00462\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'YO16C00199\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'YO17C00146\r\n  Re: A Minor', 'time': '1:00 PM'},
+          {'case_details': 'YO17C00191\r\n  Re: A Minor', 'time': '1:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Hearing Room 1',
+ 'name': 'In The County Court\r\nand The Family Court at York',
+ 'rows': [{'case_details': 'YO17P00113\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'BD16D04273\r\n  May -v- May FDR 45mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D03YJ822\r\n  Miller -v- Carter SC 90 mins',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'BD16D04273\r\n  May -v- May FDR 15mins',
+           'time': '12:45\r\n  PM'},
+          {'case_details': 'D05YJ202\r\n'
+                           '  Crombie Wilkinson Solicitors -v- Coomber SC 1 hr',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Hearing Room 1',
+ 'name': 'In The County Court\r\nand The Family Court at York',
+ 'rows': [],
+ 'title': '\xa0'}"
+"{'date': 'Sitting in Courtroom\r\n2',
+ 'name': 'In The County Court\r\nand the Family Court at Southampton',
+ 'rows': [{'case_details': 'PO17C00660\r\n'
+                           '  '
+                           'Re:\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 '
+                           '- T/E 1 HOUR - CMH',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'PO17C00107\r\n'
+                           '  - '
+                           'Re:\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 '
+                           '- T/E 1 HOUR - IRH',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'PO17C00646\r\n'
+                           '  '
+                           'Re:\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 '
+                           '- T/E 1 HOUR - CMH',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'PO17C00643\r\n'
+                           '  '
+                           'Re:\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 '
+                           'T/E 1 HOUR- CMH',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'SO17P00352\r\n'
+                           '  '
+                           'Re:\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 '
+                           '- T/E: 1 HOUR - DIRECTIONS',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'COURT 4 PETTERS WAY\r\nYEOVIL',
+ 'name': 'In the Yeovil County\r\nCourt',
+ 'rows': [{'case_details': 'C2/COP\r\n'
+                           '  day: do not list anything save this type of app',
+           'time': '9:30 AM'},
+          {'case_details': 'C2/COP\r\n  DO NOT LIST', 'time': '10:00\r\n  AM'},
+          {'case_details': 'TA17C00069\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'TA17C00038\r\n  Re: A Minor',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'COP\r\n  13020855', 'time': '2:00 PM'},
+          {'case_details': 'TA17C00070\r\n  Re: A Minor', 'time': '2:00 PM'},
+          {'case_details': 'COP\r\n  13016810', 'time': '3:00 PM'},
+          {'case_details': 'TA17C00107\r\n  Re: A Minor', 'time': '3:00 PM'},
+          {'case_details': 'C1AL1F3A\r\n'
+                           '  HOIST PORTFOLIO HOLDING 2 LTD -v- BATEMAN 1 DAY',
+           'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Court 3',
+ 'name': 'In the County Court\r\n& Family Court sitting at Great Grimsby',
+ 'rows': [{'case_details': 'GG16P00335\r\n  ', 'time': '10:00\r\n  AM'},
+          {'case_details': 'GG16F00210\r\n  Gertsen -v- Svirski Dirs 45 mins',
+           'time': '2:00 PM'},
+          {'case_details': 'KH17C00046\r\n  ', 'time': '2:00 PM'},
+          {'case_details': 'GG17F00212\r\n'
+                           '  Gertsen -v- Svirski (non mol) 15 mins',
+           'time': '2:00 PM'},
+          {'case_details': 'C00SC017\r\n'
+                           '  Hackett & Branston -v- Branston & Cann (Multi '
+                           'Track) 1 DAY ** MUST BE\r\n'
+                           '  BEFORE A FULL TIME DJ**',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D4PP6586\r\n'
+                           '  Barclays Bank -v- Simnett (adj possn) 15 mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D2PP3917\r\n'
+                           '  ONGO -v- FLETCHER ADJ POSSN CLAIM 15 MINUTES',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D4PP7321\r\n'
+                           '  Shoreline -v- Evans Adj Possn Hearing 5 minutes',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D00GG244\r\n'
+                           '  Promontoria -v- Ashton & Ashton (Mort possn) 10 '
+                           'mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'B5PP9300\r\n'
+                           '  Ongo Himes -v- Lomax Adj Possn 15 mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C8PP7124\r\n'
+                           '  Shoreline -v- Murphy adj possn 15 mns',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D00GG255\r\n'
+                           '  Home Group -v- Murrell (rent possn & breach) 10 '
+                           'mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C2PP0201\r\n'
+                           '  Ongo Homes -v- Davey (adj possn) 5 mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D3PP8646\r\n'
+                           '  ACIS Group Ltd -v- Golding (adj possn) 5 mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': '1PA15107\r\n  Ongo Homes -v- Read App to susp',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'B9PP7157\r\n'
+                           '  Shoreline -v- Hawkesford (Apln to susp) 5 mins',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'PCOL', 'time': '11:00\r\n  AM'},
+          {'case_details': 'C6PP7359\r\n'
+                           '  Ongo Homes -v- Woodforth (restored possn) 5 '
+                           'minutes',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'D4PP3089\r\n'
+                           '  Places for People -v- Reeve (adj possn) 5 mins',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'D4PP3367\r\n'
+                           '  Ongo Homes -v- Ward (adj possn) 5 mins',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'D00GG267\r\n'
+                           '  The Parishes Management Co -v- Select Properties '
+                           '(Scunthorpe) Ltd (Possn) 15\r\n'
+                           '  mins',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'D2PP8133\r\n'
+                           '  Longhurst & Havelok -v- Fox app to susp 5 mins',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'D0DE914V\r\n'
+                           '  Axcell -v- Whitworth (SC) (1. 5 hours)',
+           'time': '2:00 PM'},
+          {'case_details': 'D0AA06T5\r\n'
+                           '  Newell Hotels Ltd -v- Webster T/A Moonlit '
+                           'Pathways Events (Disp) 30 mins',
+           'time': '2:00 PM'},
+          {'case_details': 'FREE\r\n  TIME 5 MINUTES', 'time': '2:00 PM'},
+          {'case_details': 'C11YP035\r\n'
+                           '  Savage -v- SJ Barricks Limited (FT) 3 Hours',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C57YJ787\r\n  Radzyminska -v- Fawcett (FT) 3 hour',
+           'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Court 4, Yeovil Law\r\nCourts',
+ 'name': 'In the Yeovil County\r\nCourt',
+ 'rows': [{'case_details': 'TA17C00042\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D00YE005\r\n'
+                           '  HOWE -v- FOSTER DIRECTIONS HRG 30 MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C8QZ4Z2F\r\n'
+                           '  RISKMAP CONSULTING LTD -v- CLUBLEARNING LTD '
+                           'APPLCN HRG 30 MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D9QZ670Q\r\n  BIRCH -v- HOLLAND SCT 1 hr',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'D6QZ525E\r\n  HUTCHINS -v- CROKER 1 HR SCT',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'D3QZ479V\r\n  Bishop -v- Miller SCT 1 hr',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'RTA SCT\r\n  D54YJ206 WILLIAMS -v- TILL 90 MINS',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'D3QZ356A\r\n'
+                           '  RIDOUT -v- ALLIED HEALTHCARE 90 MINS SCT',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'CMC\r\n'
+                           '  C35YY292 FARRELL -v- MINISTRY OF DEFENCE 90 MINS',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'C8QZ67FD\r\n'
+                           '  NORSELAND LTD -v- BEASLEY 90 MINS SCT',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'D7QZ286D\r\n'
+                           '  BRIAN G PAULLEY LTD -v- TRANSOLVA LIMITED SCT 2 '
+                           'hrs',
+           'time': '2:00 PM'},
+          {'case_details': 'D07YX244\r\n  STONE -v- MCE INSURANCE COMPANY LTD',
+           'time': '2:00 PM'},
+          {'case_details': 'C5QZ1Q0X\r\n'
+                           '  BREALEY -v- PROFINISH PRINT SERVICES LTD SCT',
+           'time': '2:00 PM'},
+          {'case_details': 'NO DDJ\r\n  SOURCED', 'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Court 2, Yeovil Law\r\nCourts',
+ 'name': 'In the Yeovil County Court',
+ 'rows': [{'case_details': 'C8QZ4Z2F\r\n'
+                           '  RISKMAP CONSULTING LTD -v- CLUBLEARNING LTD '
+                           'APPLCN HRG 30 MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'D9QZ670Q\r\n  BIRCH -v- HOLLAND SCT 1 hr',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'RTA SCT\r\n  D54YJ206 WILLIAMS -v- TILL 90 MINS',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'D7QZ286D\r\n'
+                           '  BRIAN G PAULLEY LTD -v- TRANSOLVA LIMITED SCT 2 '
+                           'hrs',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Dydd\r\nGwener 4ydd Awst 2017 / Friday 4th August 2017',
+ 'name': 'Wrexham',
+ 'rows': [],
+ 'title': 'Yn Llys Sirol a Llys Teulu Wrecsam / In The County Court and\r\n'
+          'The Family Court at'}"
+"{'date': 'Worthing County Court',
+ 'name': 'In the County Court\r\nand the Family Court at Worthing',
+ 'rows': [{'case_details': 'SD17C00632\r\n'
+                           '  - PRIVATE HEARING \xa0- 1 HOUR - FCMH',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'SD17C00587\r\n  PRIVATE HEARING - FCMH 1. 5 hours',
+           'time': '1:30 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'In the County Court\r\nand the Family Court at Worthing',
+ 'name': '\xa0',
+ 'rows': [{'case_details': '13037993\r\n'
+                           '  (CoP case) \xa0\xa0\xa0\xa0PUBLIC WITH REPORTING '
+                           'RESTRICTIONS \xa0-',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'SD16C01107\xa0\r\n'
+                           '  \xa0PRIVATE HEARING \xa0\xa0-\xa0\xa0 ',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'SD16C01381\r\n'
+                           '  & SD16C00746 \xa0\xa0PRIVATE HEARING \xa0\xa0-',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Dydd\r\nMawrth 1af Awst 2017 / Tuesday 1st August 2017',
+ 'name': 'Wrexham',
+ 'rows': [],
+ 'title': 'Yn Llys Sirol a Llys Teulu Wrecsam / In The County Court and\r\n'
+          'The Family Court at'}"
+"{'date': 'Dydd\r\nGwener 28ain Gorffennaf 2017 / Friday 28th July 2017',
+ 'name': 'Wrexham',
+ 'rows': [],
+ 'title': 'Yn Llys Sirol a Llys Teulu Wrecsam / In The County Court and\r\n'
+          'The Family Court at'}"
+"{'date': 'Friday 28 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'WR16P00477\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR16P00451\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'SQ15D04669\r\n'
+                           '  HOUSTON -v- HOUSTON FOR MENTION 10MINS (NOT '
+                           'BEFORE DJ MACKENZIE)',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17F00251\r\n'
+                           '  MACKENZIE -v- AMARO NON-MOL 10 MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'SQ16D00676\r\n  KEENAN -v- KEENAN APPLN 10MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR16C00216\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR16P00494\r\n  Re: A Minor', 'time': '2:00 PM'},
+          {'case_details': 'WR16P00743\r\n  Re: A Minor', 'time': '2:00 PM'},
+          {'case_details': 'WR09D01335\r\n  EDWARDS -v- EDWARDS FDA 30MINS',
+           'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Dydd\r\nIau 27ain Gorffennaf 2017 / Thursday 27th July 2017',
+ 'name': 'Wrexham',
+ 'rows': [],
+ 'title': 'Yn Llys Sirol a Llys Teulu Wrecsam / In The County Court and\r\n'
+          'The Family Court at'}"
+"{'date': 'Dydd\r\nLlun 31ain Gorffennaf 2017 / Monday 31st July 2017',
+ 'name': 'Wrexham',
+ 'rows': [],
+ 'title': 'Yn Llys Sirol a Llys Teulu Wrecsam / In The County Court and\r\n'
+          'The Family Court at'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'WR0020/17\r\n'
+                           '  - ADOPTION APPLICATION FOR LEAVE TO OPPOSE T/E 3 '
+                           'HOURS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'PUBLIC/PRIVATE\r\n  LAW GATEKEEPING 30MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17F00493\r\n'
+                           '  LEWIS -v- JORDAN NON-MOL APPLN 10MINS',
+           'time': '1:59 PM'},
+          {'case_details': 'WR17C00077\r\n  Re: A Minor', 'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Dydd\r\nMercher 2ail Awst 2017 / Wednesday 2nd August 2017',
+ 'name': 'Wrexham',
+ 'rows': [],
+ 'title': 'Yn Llys Sirol a Llys Teulu Wrecsam / In The County Court and\r\n'
+          'The Family Court at'}"
+"{'date': 'Dydd\r\nIau 3ydd Awst 2017 / Thursday 3rd August 2017',
+ 'name': 'Wrexham',
+ 'rows': [],
+ 'title': 'Yn Llys Sirol a Llys Teulu Wrecsam / In The County Court and\r\n'
+          'The Family Court at'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'WR17C00009\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17C00034\r\n  Re: A Minor', 'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'WR17C00112\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17F00505\r\n'
+                           '  - TRUEMAN -v- TRUEMAN - NO MOL AND OCC APPLIC - '
+                           '30 MINS',
+           'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'WR14D00442\r\n'
+                           '  GRAHAM -v- GRAHAM FNL HRG DAY 3 OF 3 DAYS (NOT '
+                           'BEFORE DJ PARRY)',
+           'time': '10:00\r\n  AM'},
+          {'case_details': '4PB41646\r\n'
+                           '  HEART OF ENGLAND HOUSING ASSN LTD -v- DOWNIE 5 '
+                           'MINS APPN TO SUSPEND EVICTION\r\n'
+                           '  ON 28. 7. 17',
+           'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'WR17C00126\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Friday 28 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'WR17P00098\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17P00209\r\n  Re: A Minor', 'time': '2:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'PCOL\r\n  1HR', 'time': '10:00\r\n  AM'},
+          {'case_details': '9./2017\r\n  RE: P J ADJ CRED PETN 10MINS',
+           'time': '11:00\r\n  AM'},
+          {'case_details': '10./2017\r\n  RE; M C DRNS 15MINS',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'D00HR078\r\n'
+                           '  SANTANDER UK PLC -v- DAVID NORTON ROG 10MINS',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'D00HR079\r\n'
+                           '  HEREFORDSHIRE HSG -v- LOUIS BOUNDS APPLN POSSN '
+                           '10MINS',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'C9PP6692\r\n'
+                           '  FORTIS LIVING -v- DAVIES & WOODHALL ADJ PCOL '
+                           '10MINS',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'D00HR053\r\n'
+                           '  UDDIN -v- ADVANTAGE INSURANCE STAGE 3 ORAL HRG '
+                           '45MINS',
+           'time': '12:00\r\n  PM'},
+          {'case_details': 'D00HR041\r\n'
+                           '  BARCLAYS BANK PLC -v- JONATHAN DAVENPORT ADJ '
+                           'APPLN POSSN 10MINS',
+           'time': '12:00\r\n  PM'},
+          {'case_details': 'C00MT169\r\n  OGDEN -v- CLARK APPLN 30MINS',
+           'time': '2:00 PM'},
+          {'case_details': 'FREE\r\n  TIME 90MINS', 'time': '2:30 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Friday 28 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'WR17P00366\r\n  / WR17P00414 Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17P00382\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17P00387\r\n  Re: A Minor',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'WR17P00263\r\n  Re: A Minor',
+           'time': '11:00\r\n  AM'},
+          {'case_details': 'WR17P00303\r\n  Re: A Minor', 'time': '2:00 PM'},
+          {'case_details': 'WR17P00293\r\n  Re: A Minor', 'time': '3:00 PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Friday 28 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'C56YM496\r\n  WHITING -v- STEVENS FT TRIAL 1 DAY',
+           'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Friday 28 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'C5PP5205\r\n'
+                           '  STONEWATER (4) LTD -v- MORGAN APPLN SUSPEND '
+                           'POSSN WRRNT 5MINS',
+           'time': '9:59 AM'},
+          {'case_details': 'C3PP2865\r\n'
+                           '  FORTIS LIVING LTD -v- HALL APPLICATION TO SUSP '
+                           'EVICTION t/e 5 mins',
+           'time': '9:59 AM'},
+          {'case_details': 'WR16P00735\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'HR10D00127\r\n  MILES -v- MILES FOR MENTION 15MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17F00399\r\n'
+                           '  MCCARTHY -v- LITTLEWOOD ADJ NON-MOL APPLN 15MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'C98YM886\r\n'
+                           '  - TOMMY WOOD-COLE -v- TOM PROBERT & DEHORAH '
+                           'PROBERT - SCH - 3 HOURS',
+           'time': '12:00\r\n  PM'}],
+ 'title': '\xa0'}"
+"{'date': 'Thursday 27 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'B10YX568\r\n'
+                           '  MS TERESA LYS -v- UK INSURANCE LIMITED',
+           'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Friday 28 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'WR17C00040\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17C00120\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'WR17C00055\r\n  Re: A Minor',
+           'time': '10:00\r\n  AM'}],
+ 'title': '\xa0'}"
+"{'date': 'Friday 28 July 2017',
+ 'name': 'In the County &\r\nFamily Court at Worcester',
+ 'rows': [{'case_details': 'C9PP6731\r\n'
+                           '  - FESTIVAL HOUSING -v- MALENCZUK APP TO SUSP '
+                           'EVICTION t/e 10 mins',
+           'time': '9:59 AM'},
+          {'case_details': 'PUBLIC/PRIVATE\r\n  LAW GATEKEEPING 30MINS',
+           'time': '10:00\r\n  AM'},
+          {'case_details': 'PCOL\r\n  1HR', 'time': '10:30\r\n  AM'},
+          {'case_details': '3PA92009\r\n'
+                           '  - FORTIS LIVING -v- BRADLEY APP TO SUSP EVICTION '
+                           't/e 5 mins',
+           'time': '10:30\r\n  AM'},
+          {'case_details': 'D00WR273\r\n'
+                           '  BETHANY JACKSON (LIT FRIEND: JESSICA JACKSON) '
+                           '-v- UK INS LTD INF SETT 15MINS',
+           'time': '11:30\r\n  AM'},
+          {'case_details': 'B51YX212\r\n'
+                           '  OWENS -v- ALDI STORES LTD APPLN 45MINS '
+                           '(TELEPHONE CONFERENCE)',
+           'time': '11:45\r\n  AM'},
+          {'case_details': 'WR17F00509\r\n'
+                           '  BARKER -v- BARKER & REYNOLDS NON MOL & OCCUP 30 '
+                           'MINS',
+           'time': '12:00\r\n  PM'},
+          {'case_details': 'D00WR178\r\n'
+                           '  JACK DE GRAY AND OTHER -v- JOHN MCHUGH '
+                           'DISP/APPLN 30MINS',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'D00WR395\r\n'
+                           '  - WORCESTER CITY COUNCIL -v- PERSONS UNKNOWN T/E '
+                           '15 mins',
+           'time': '12:30\r\n  PM'},
+          {'case_details': 'WR17C00058\r\n  Re: A Minor', 'time': '2:00 PM'}],
+ 'title': '\xa0'}"
